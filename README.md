@@ -19,6 +19,6 @@
   <a href = "mailto:ricardovieira7458@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-vieira-da-silva-7a972922a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Ricardo-Vieira-Silva/Ricardo-Vieira-Silva/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/Ricardo-Vieira-Silva/Ricardo-Vieira-Silva/Aula-tabela/github-contribution-grid-snake.svg)
 
 </div>
